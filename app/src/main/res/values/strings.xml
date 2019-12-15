@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Movie Catalogue ~ Sub1</string>
+    <string name="mov_name">Movies Name</string>
+    <string name="mov_desc">Movies Description</string>
+
+    <string-array name="movies_name">
+        <item>Aquaman</item>
+        <item>A Star Is Born</item>
+        <item>Avengers: Infinity War</item>
+        <item>Birdbox</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bumblebee</item>
+        <item>Creed II</item>
+        <item>Deadpool 2</item>
+        <item>How to Train Your Dragon: The Hidden World</item>
+        <item>Dragon Ball Super: Broly</item>
+        <item>Glass</item>
+        <item>Hunter kill</item>
+        <item>Mary Poppins Returns</item>
+        <item>Mortal Engines</item>
+        <item>Preman Pensiun</item>
+        <item>Robin Hood</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>The Girl in the Spider\'s Web</item>
+        <item>The Mule</item>
+        <item>Venom</item>
+    </string-array>
+
+    <string-array name="movies_description">
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.</item>
+        <item>Seasoned musician Jackson Maine discovers and falls in love with struggling artist Ally. She has just about given up on her dream to make it big as a singer until Jack coaxes her into the spotlight. But even as Ally\'s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>When a mysterious force decimates the population, only one thing is certain if you see it, you die. The survivors must now avoid coming face to face with an entity that takes the form of their worst fears. Searching for hope and a new beginning, a woman and her children embark on a dangerous journey through the woods and down a river to find the one place that may offer sanctuary. To make it, they\'ll have to cover their eyes from the evil that chases them and complete the trip blindfolded.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock \'n\' roll band Queen in 1970. Hit songs become instant classics. When Mercury\'s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.</item>
+        <item>In 1985, Russian boxer Ivan Drago killed former U.S. champion Apollo Creed in a tragic match that stunned the world. Against the wishes of trainer Rocky Balboa, Apollo\'s son Adonis Johnson accepts a challenge from Drago\'s son another dangerous fighter. Under guidance from Rocky, Adonis trains for the showdown of his life a date with destiny that soon becomes his obsession. Now, Johnson and Balboa must confront their shared legacy as the past comes back to haunt each man.</item>
+        <item>Deadpool protects a young mutant Russell from the authorities and gets thrown in prison. However, he escapes and forms a team of mutants to prevent a time-travelling mercenary from killing Russell.</item>
+        <item>All seems well on the island of Berk as Vikings and dragons live together in peace and harmony. Now a Viking leader, Hiccup finds himself increasingly attracted to Astrid, while his beloved dragon Toothless meets an enchanting creature who captures his eye. When the evil Grimmel launches a devious plan to wipe out all the dragons, Hiccup must unite both clans to find Caldera, a hidden land that holds the key to saving Toothless and his flying friends.</item>
+        <item>One fateful day, a Saiyan appears before Goku and Vegeta who they have never seen before: Broly. With the return of Frieza from hell, a fierce battle awaits these three Saiyans who have followed completely different destinies.</item>
+        <item>David Dunn tries to stay one step ahead of the law while delivering vigilante justice on the streets of Philadelphia. His special talents soon put him on a collision course with the Beast the psychotic madman who has superhuman strength and 23 distinct personalities. Their epic showdown leads them to an encounter with the mysterious Elijah Price, the criminal mastermind who holds critical secrets for both men.</item>
+        <item>American submarine Captain Joe Glass is on the hunt for a U.S. sub in distress in the Arctic Ocean. He soon learns that a secret Russian coup is in the offing, a conspiracy that threatens to dismantle the world order. With crew and country on the line, Glass must assemble an elite group of Navy SEALs to sneak through enemy waters, rescue the kidnapped Russian president and prevent World War III.</item>
+        <item>Now an adult with three children, bank teller Michael Banks learns that his house will be repossessed in five days unless he can pay back a loan. His only hope is to find a missing certificate that shows proof of valuable shares that his father left him years earlier. Just as all seems lost, Michael and his sister receive the surprise of a lifetime when Mary Poppins the beloved nanny from their childhood arrives to save the day and take the Banks family on a magical, fun-filled adventure.</item>
+        <item>A man and a woman come together in a bid to save the world from the expedient measures taken by countries to survive in a post-apocalyptic world.</item>
+        <item>This is a story about Kang Mus who has switched professions from the thug world. The ex-subordinates of Kang Mus are now live on the right path. Until one day, Gobang, one of Kang Mus\' people, did not accept it when his brother was beaten into coma, thus planned to take revenge on the culprit by asking for help from other ex-thugs without Kang Mus\' knowledge. Does this mean Kang Mus will return to his previous life? Meanwhile, Kang Mus became alarmed when his beloved teenage daughter, Safira, starts dating. As a father, he\'ll do anything to protect her daughter and this starts another kind of war in Kang Mus\' life.</item>
+        <item>After returning home to England, aristocrat Robin of Loxley learns that the evil Sheriff of Nottingham has seized his family estate. He soon joins forces with Friar Tuck and Little John a fierce Arabian warrior who wants to put an end to the Crusades. Armed with arrows and dubbed Robin Hood, Loxley leads a band of oppressed rebels in a daring plan to rob the Sheriff of his money and take away his power.</item>
+        <item>After gaining superpowers from a spider bite, Miles Morales protects the city as Spider-Man. Soon, he meets alternate versions of himself and gets embroiled in an epic battle to save the multiverse.</item>
+        <item>Fired from the National Security Agency, Frans Balder recruits hacker Lisbeth Salander to steal FireWall, a computer programme that can access codes for nuclear weapons worldwide. The download soon draws attention from an NSA agent who traces the activity to Stockholm. Further problems arise when Russian thugs take Lisbeth\'s laptop and kidnap a math whiz who can make FireWall work. Now, Lisbeth and an unlikely ally must race against time to save the boy and recover the codes to avert disaster.</item>
+        <item>Earl is in a tough financial situation in his old age because of which he decides to become a carrier of drugs for a cartel. This brings him closer to his estranged family but at a cost.</item>
+        <item>While trying to take down Carlton, the CEO of Life Foundation, Eddie, a journalist, investigates experiments of human trials. Unwittingly, he gets merged with a symbiotic alien with lethal abilities</item>
+    </string-array>
+
+    <array name="movies_poster">
+        <item>@drawable/aquaman</item>
+        <item>@drawable/astar</item>
+        <item>@drawable/avengerinfinity</item>
+        <item>@drawable/birdbox</item>
+        <item>@drawable/bohemian</item>
+        <item>@drawable/bumblebee</item>
+        <item>@drawable/creed</item>
+        <item>@drawable/deadpool</item>
+        <item>@drawable/dragon</item>
+        <item>@drawable/dragonball</item>
+        <item>@drawable/glass</item>
+        <item>@drawable/hunterkiller</item>
+        <item>@drawable/marrypopins</item>
+        <item>@drawable/mortalengine</item>
+        <item>@drawable/preman</item>
+        <item>@drawable/robinhood</item>
+        <item>@drawable/spiderman</item>
+        <item>@drawable/thegirl</item>
+        <item>@drawable/themule</item>
+        <item>@drawable/venom</item>
+    </array>
+</resources>
